@@ -1,0 +1,12 @@
+export const cities = [
+"MEDELLÍN",
+"BOGOTÁ",
+"CALI",
+"BARRANQUILLA",
+"CARTAGENA",
+"BUCARAMANGA",
+"PEREIRA",
+"MANIZALES",
+"SANTA MARTA",
+"CÚCUTA"
+];
